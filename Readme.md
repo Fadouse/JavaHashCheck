@@ -1,0 +1,1 @@
+Just a simple Example for Java File's Hash Check.
